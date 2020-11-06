@@ -2,12 +2,12 @@
 id: 2307e84f-a7a4-4cdc-b0f2-8ab53005df2d
 title: Sample
 desc: ''
-updated: 1604424064363
+updated: 1604699642960
 created: 1604422705358
 sources:
-  - name: "Wikipedia"
-    url: https://en.wikipedia.org/wiki/Tree
-    license: "Creative Commons Attribution-ShareAlike License"
+  - name: Wikipedia
+    url: 'https://en.wikipedia.org/wiki/Tree'
+    license: Creative Commons Attribution-ShareAlike License
 ---
 
 # Tree
