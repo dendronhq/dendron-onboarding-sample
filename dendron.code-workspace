@@ -2,6 +2,9 @@
     "folders": [
         {
             "path": "vault"
+        },
+        {
+            "path": "vault2"
         }
     ],
     "settings": {
@@ -18,7 +21,7 @@
         "editor.snippetSuggestions": "inline",
         "editor.suggest.snippetsPreventQuickSuggestions": false,
         "editor.suggest.showSnippets": true,
-        "editor.tabCompletion": "on",
+        "editor.tabCompletion": "on"
     },
     "extensions": {
         "recommendations": [

@@ -5,4 +5,7 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
 vaults:
-    - fsPath: /Users/kevinlin/Dendron.ws/onboarding/vault
+    -
+        fsPath: /Users/kevinlin/Dendron.ws/onboarding/vault
+    -
+        fsPath: vault2
