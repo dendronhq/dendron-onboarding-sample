@@ -11,7 +11,7 @@
         "dendron.rootDir": ".",
         "editor.minimap.enabled": false,
         "files.autoSave": "onFocusChange",
-        "workbench.colorTheme": "Default Dark+",
+        "workbench.colorTheme": "GitHub Light",
         "pasteImage.path": "${currentFileDir}/assets/images",
         "pasteImage.prefix": "/",
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
